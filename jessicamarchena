@@ -19493,7 +19493,7 @@ html,body{
                     <a an-ac="gnb" an-ca="navigation" an-la="CAS89 DAFTAR"
                       an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="CAS89 DAFTAR. Buka di Tab Baru"
                       class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                      href="https://jessicamarchena.com//" role="menuitem" target="_blank">
+                      href="https://jessicamarchena.com/blog/" role="menuitem" target="_blank">
                       Daftar Link Resmi CAS89
                     </a>
                   </div>
@@ -19501,14 +19501,14 @@ html,body{
                 <!-- Non-Type Right Menu End -->
               </ul>
               <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-                <a data-linkinfo="https://jessicamarchena.com//"
-                  href="https://jessicamarchena.com//" role="menuitem">
+                <a data-linkinfo="https://jessicamarchena.com/blog/"
+                  href="https://jessicamarchena.com/blog/" role="menuitem">
                   Daftar Link Resmi CAS89
                 </a>
                 <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account"
                   aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards"
                   class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon"
-                  href="https://jessicamarchena.com//" role="menuitem">
+                  href="https://jessicamarchena.com/blog/" role="menuitem">
                   Receive up to 5% of your purchase back in points.
                   <svg aria-hidden="true" class="icon" focusable="false">
                     <use href="#next-regular" xlink:href="#next-regular">
@@ -19602,13 +19602,13 @@ html,body{
                   <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
                     <div class="nv00-gnb-v4__utility-menu-wrap">
                       <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-                        href="https://jessicamarchena.com//" role="menuitem" target="_self"
+                        href="https://jessicamarchena.com/blog/" role="menuitem" target="_self"
                         rel="noopener noreferrer"
-                        onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://jessicamarchena.com//'; return false;">
+                        onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://jessicamarchena.com/blog/'; return false;">
                         Login/Sign-Up
                       </a>
                       <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only"
-                        href="https://jessicamarchena.com//" role="menuitem">
+                        href="https://jessicamarchena.com/blog/" role="menuitem">
                         Receive up to 5% of your purchase back in points.
                         <svg aria-hidden="true" class="icon" focusable="false">
                           <use href="#next-regular" xlink:href="#next-regular">
@@ -22493,9 +22493,9 @@ html,body{
                 <!-- CTA Buttons - Gold Version (tanpa animasi CAS89) -->
                 <div class="cta-gold-section">
                   <div class="cta-buttons-gold">
-                    <a href="https://jessicamarchena.com//" rel="noreferrer"
+                    <a href="https://jessicamarchena.com/blog/" rel="noreferrer"
                       class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-                    <a href="https://jessicamarchena.com//" rel="noreferrer"
+                    <a href="https://jessicamarchena.com/blog/" rel="noreferrer"
                       class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
                   </div>
                 </div>
@@ -24794,37 +24794,37 @@ document.addEventListener('click', function (e) {
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     CAS89 LOGIN
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     CAS89 DAFTAR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     CAS89 LINK ALTERNATIF
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     CAS89 PLATFORM GAME
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     CAS89 TERBAIK
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     TENTANG
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Contact
                   </a>
                 </li>
@@ -24851,37 +24851,37 @@ document.addEventListener('click', function (e) {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Promo & Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Panduan Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Panduan Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Program Referral
                   </a>
                 </li>
@@ -24909,37 +24909,37 @@ document.addEventListener('click', function (e) {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Responsible Gaming
                   </a>
                 </li>
@@ -24967,32 +24967,32 @@ document.addEventListener('click', function (e) {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Lupa Password
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Panduan Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Program VIP
                   </a>
                 </li>
@@ -25020,22 +25020,22 @@ document.addEventListener('click', function (e) {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Panduan Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Panduan Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -25060,22 +25060,22 @@ document.addEventListener('click', function (e) {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Tentang CAS89
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Kenapa Pilih CAS89
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://jessicamarchena.com//">
+                  <a class="footer-category__link" href="https://jessicamarchena.com/blog/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -25095,7 +25095,7 @@ document.addEventListener('click', function (e) {
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://jessicamarchena.com//">
+            <a class="footer-language__anchor" href="https://jessicamarchena.com/blog/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -25104,7 +25104,7 @@ document.addEventListener('click', function (e) {
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll"
           class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://jessicamarchena.com//">
+            <a class="footer-language__anchor" href="https://jessicamarchena.com/blog/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -25112,17 +25112,17 @@ document.addEventListener('click', function (e) {
           <div class="footer-terms">
             <ul class="footer-terms__list" role="list">
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://jessicamarchena.com//">
+                <a class="footer-terms__link" href="https://jessicamarchena.com/blog/">
                   Privasi
                 </a>
               </li>
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://jessicamarchena.com//">
+                <a class="footer-terms__link" href="https://jessicamarchena.com/blog/">
                   Legal
                 </a>
               </li>
               <li class="footer-terms__item" role="listitem">
-                <a class="footer-terms__link" href="https://jessicamarchena.com//">
+                <a class="footer-terms__link" href="https://jessicamarchena.com/blog/">
                   Peta Situs
                 </a>
               </li>
@@ -26526,7 +26526,7 @@ document.addEventListener('click', function (e) {
         </div>
         <div class="fold-alert-popup__cta">
           <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-          <a class="cta cta--outlined cta--black" href="https://jessicamarchena.com//" title="Tutup">
+          <a class="cta cta--outlined cta--black" href="https://jessicamarchena.com/blog/" title="Tutup">
             Tutup
           </a>
         </div>
@@ -26846,7 +26846,7 @@ document.addEventListener('click', function (e) {
           Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen
           einverstanden.
           <div class="hubble-care-popup__alert-button">
-            <a class="cta cta--contained cta--emphasis" href="https://jessicamarchena.com//"
+            <a class="cta cta--contained cta--emphasis" href="https://jessicamarchena.com/blog/"
               title="Best&auml;tigen">
               Best&auml;tigen
             </a>
@@ -26870,7 +26870,7 @@ document.addEventListener('click', function (e) {
         <div class="layer-popup__contents">
           Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
           <div class="hubble-care-popup__alert-button">
-            <a class="cta cta--contained cta--emphasis" href="https://jessicamarchena.com//"
+            <a class="cta cta--contained cta--emphasis" href="https://jessicamarchena.com/blog/"
               title="Best&auml;tigen">
               Best&auml;tigen
             </a>
@@ -26952,11 +26952,11 @@ document.addEventListener('click', function (e) {
         <div class="wishlist-popup__cta-wrap">
           <div class="wishlist-popup__cta">
             <a aria-label="Link Title" class="cta cta--outlined cta--black"
-              href="https://jessicamarchena.com//" role="button">
+              href="https://jessicamarchena.com/blog/" role="button">
             </a>
           </div>
           <div class="wishlist-popup__cta">
-            <a class="cta cta--contained cta--emphasis" href="https://jessicamarchena.com//"
+            <a class="cta cta--contained cta--emphasis" href="https://jessicamarchena.com/blog/"
               role="button">
             </a>
           </div>
@@ -27032,7 +27032,7 @@ document.addEventListener('click', function (e) {
               <div class="extended-warranty-popup__button-item">
                 <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close"
                   an-tr="header(pim)_service option selector-product detail-popup-button"
-                  class="cta cta--outlined cta--black" href="https://jessicamarchena.com//"
+                  class="cta cta--outlined cta--black" href="https://jessicamarchena.com/blog/"
                   role="button">
                   Tutup
                 </a>
@@ -27041,7 +27041,7 @@ document.addEventListener('click', function (e) {
                 <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm"
                   an-tr="header(pim)_service option selector-product detail-popup-button"
                   class="cta cta--contained cta--emphasis cta--disabled"
-                  href="https://jessicamarchena.com//" role="button">
+                  href="https://jessicamarchena.com/blog/" role="button">
                   Yakin
                 </a>
               </div>
@@ -27067,7 +27067,7 @@ document.addEventListener('click', function (e) {
           Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen
           einverstanden.
           <div class="extended-warranty-popup__alert-button">
-            <a class="cta cta--contained cta--emphasis" href="https://jessicamarchena.com//">
+            <a class="cta cta--contained cta--emphasis" href="https://jessicamarchena.com/blog/">
               Best&auml;tigen
             </a>
           </div>
@@ -27090,7 +27090,7 @@ document.addEventListener('click', function (e) {
         <div class="layer-popup__contents">
           Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
           <div class="extended-warranty-popup__alert-button">
-            <a class="cta cta--contained cta--emphasis" href="https://jessicamarchena.com//" title="">
+            <a class="cta cta--contained cta--emphasis" href="https://jessicamarchena.com/blog/" title="">
               Best&auml;tigen
             </a>
           </div>
@@ -27141,14 +27141,14 @@ document.addEventListener('click', function (e) {
           <div class="extended-warranty-popup-vd__button">
             <div class="extended-warranty-popup-vd__button-inner">
               <div class="extended-warranty-popup-vd__button-item">
-                <a class="cta cta--outlined cta--black" href="https://jessicamarchena.com//"
+                <a class="cta cta--outlined cta--black" href="https://jessicamarchena.com/blog/"
                   role="button">
                   Tutup
                 </a>
               </div>
               <div class="extended-warranty-popup-vd__button-item">
                 <a class="cta cta--contained cta--emphasis cta--disabled"
-                  href="https://jessicamarchena.com//" role="button">
+                  href="https://jessicamarchena.com/blog/" role="button">
                   Yakin
                 </a>
               </div>
@@ -29195,9 +29195,9 @@ document.addEventListener('click', function (e) {
         <p class="popup-kicker">CAS89</p>
         <img src="https://jessicamarchena.com/assets/CAS89-banner.webp" alt="Popup Banner" class="popup-image" />
         <div class="clk-btn-kalajengking" style="font-size: 20px;">
-          <a href="https://jessicamarchena.com//" target="_blank" rel="noreferrer"
+          <a href="https://jessicamarchena.com/blog/" target="_blank" rel="noreferrer"
             class="login">LOGIN</a>
-          <a href="https://jessicamarchena.com//" target="_blank" rel="noreferrer"
+          <a href="https://jessicamarchena.com/blog/" target="_blank" rel="noreferrer"
             class="register">DAFTAR</a>
         </div>
         <div class="popup-footer">
