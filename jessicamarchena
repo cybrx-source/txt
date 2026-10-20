@@ -115,8 +115,6 @@
 
     .logo amp-img {
       display: block;
-      width: 240px;
-      max-width: 90%;
       margin: 0 auto;
       filter: drop-shadow(0 4px 12px rgba(0, 0, 0, .7));
     }
@@ -300,7 +298,6 @@
 
       .logo amp-img {
         width: 210px;
-        max-width: 90%;
       }
 
       .banner {
@@ -337,9 +334,9 @@
     <div class="logo">
       <amp-img
         src="https://res.cloudinary.com/uruyped1/image/upload/v1792465670/slot88-logo.png"
-        width="90"
-        height="115"
-        layout="intrinsic"
+        width="240"
+        height="307"
+        layout="fixed"
         alt="Logo SLOT88">
       </amp-img>
     </div>
