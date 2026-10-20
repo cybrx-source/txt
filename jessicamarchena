@@ -1,23 +1,76 @@
+
 <!doctype html>
 <html amp lang="id">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
   <title>SLOT88: Link MP3 Situs Slot Gacor Gampang Menang Akses 777 Server Thailand Hari Ini</title>
+
   <meta name="description" content="SLOT88 menghadirkan informasi link MP3, situs slot gacor, akses 777, dan server Thailand hari ini dengan panduan akses yang mudah serta informasi terbaru.">
   <meta name="robots" content="index,follow">
   <meta name="googlebot" content="index,follow">
+
   <meta property="og:type" content="website">
   <meta property="og:locale" content="id_ID">
   <meta property="og:title" content="SLOT88: Link MP3 Situs Slot Gacor Gampang Menang Akses 777 Server Thailand Hari Ini">
   <meta property="og:description" content="SLOT88 menghadirkan informasi link MP3, situs slot gacor, akses 777, dan server Thailand hari ini dengan panduan akses yang mudah serta informasi terbaru.">
   <meta property="og:image" content="https://res.cloudinary.com/uruyped1/image/upload/v1792465706/slot88-cas89.png">
+
   <link rel="canonical" href="https://ytmp3.mobi/gacor.html">
   <link rel="icon" href="https://res.cloudinary.com/uruyped1/image/upload/v1792465670/slot88-fav.png">
+
   <script async src="https://cdn.ampproject.org/v0.js"></script>
 
-  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+  <!-- AMP REQUIRED BOILERPLATE -->
+  <style amp-boilerplate>
+    body {
+      -webkit-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+      -moz-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+      -ms-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+      -o-animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+      animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+    }
 
+    @-webkit-keyframes -amp-start {
+      from { visibility: hidden; }
+      to { visibility: visible; }
+    }
+
+    @-moz-keyframes -amp-start {
+      from { visibility: hidden; }
+      to { visibility: visible; }
+    }
+
+    @-ms-keyframes -amp-start {
+      from { visibility: hidden; }
+      to { visibility: visible; }
+    }
+
+    @-o-keyframes -amp-start {
+      from { visibility: hidden; }
+      to { visibility: visible; }
+    }
+
+    @keyframes -amp-start {
+      from { visibility: hidden; }
+      to { visibility: visible; }
+    }
+  </style>
+
+  <noscript>
+    <style amp-boilerplate>
+      body {
+        -webkit-animation: none;
+        -moz-animation: none;
+        -ms-animation: none;
+        -o-animation: none;
+        animation: none;
+      }
+    </style>
+  </noscript>
+
+  <!-- CUSTOM AMP CSS -->
   <style amp-custom>
     * {
       box-sizing: border-box;
@@ -35,24 +88,26 @@
       color: #fff;
       font-family: Arial, Helvetica, sans-serif;
       background: #050505;
+      overflow-wrap: break-word;
     }
 
-    /* BACKGROUND BANNER GELAP */
+    a {
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    /* BACKGROUND */
     .background {
       position: fixed;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
+      inset: 0;
       z-index: 0;
       pointer-events: none;
       background-color: #050505;
       background-image:
         linear-gradient(
           180deg,
-          rgba(0, 0, 0, .82) 0%,
-          rgba(0, 0, 0, .88) 50%,
-          rgba(0, 0, 0, .94) 100%
+          rgba(0, 0, 0, .80) 0%,
+          rgba(0, 0, 0, .88) 52%,
+          rgba(0, 0, 0, .95) 100%
         ),
         url("https://res.cloudinary.com/uruyped1/image/upload/v1792465706/slot88-cas89.png");
       background-position: center center;
@@ -60,7 +115,7 @@
       background-size: cover;
     }
 
-    /* LAYOUT MOBILE DI SEMUA UKURAN LAYAR */
+    /* MAIN CONTAINER */
     .container {
       position: relative;
       z-index: 1;
@@ -71,32 +126,39 @@
       max-width: 430px;
       min-height: 100vh;
       margin: 0 auto;
-      padding: 20px 15px 0;
-      background: rgba(0, 0, 0, .16);
+      padding: 22px 15px 0;
+      background: rgba(0, 0, 0, .18);
       border-right: 1px solid rgba(255, 255, 255, .08);
       border-left: 1px solid rgba(255, 255, 255, .08);
       box-shadow: 0 0 35px rgba(0, 0, 0, .35);
     }
 
-    /* LOGO BESAR TANPA MENGUBAH RASIO */
+    /* LOGO */
     .logo {
       width: 100%;
-      margin-bottom: 20px;
+      margin: 0 0 22px;
       text-align: center;
     }
 
     .logo amp-img {
       display: block;
+      width: 240px;
+      max-width: 100%;
+      height: auto;
       margin: 0 auto;
       filter: drop-shadow(0 4px 12px rgba(0, 0, 0, .7));
     }
 
-    /* BANNER UTAMA */
+    .logo amp-img img {
+      object-fit: contain;
+    }
+
+    /* MAIN BANNER */
     .banner {
       width: 100%;
-      margin-bottom: 23px;
+      margin: 0 0 23px;
       overflow: hidden;
-      border: 2px solid rgba(255, 207, 48, .8);
+      border: 2px solid rgba(255, 207, 48, .85);
       border-radius: 12px;
       background: #080808;
       box-shadow: 0 7px 22px rgba(0, 0, 0, .5);
@@ -107,10 +169,10 @@
       width: 100%;
     }
 
-    /* TOMBOL */
+    /* ACTION BUTTONS */
     .buttons {
       display: grid;
-      grid-template-columns: 1fr;
+      grid-template-columns: minmax(0, 1fr);
       gap: 14px;
       width: 100%;
       margin: 0 0 26px;
@@ -122,7 +184,7 @@
       align-items: center;
       justify-content: center;
       width: 100%;
-      min-height: 52px;
+      min-height: 54px;
       padding: 14px 12px;
       overflow: hidden;
       border: 3px solid #d9a900;
@@ -148,7 +210,6 @@
       transition: transform .2s ease;
     }
 
-    /* Garis cahaya tebal bergerak mengelilingi tombol */
     .btn::before {
       content: "";
       position: absolute;
@@ -169,16 +230,9 @@
       pointer-events: none;
     }
 
-    .btn:hover,
-    .btn:focus-visible {
-      color: #fff;
-      border-color: #fff0a0;
-      transform: translateY(-2px);
-      outline: none;
-      box-shadow:
-        0 0 12px rgba(255, 213, 55, .9),
-        0 0 25px rgba(255, 193, 7, .45),
-        inset 0 0 10px rgba(255, 215, 0, .15);
+    .btn:focus {
+      outline: 2px solid #fff0a0;
+      outline-offset: 3px;
     }
 
     .btn:active {
@@ -214,7 +268,7 @@
       }
     }
 
-    /* KONTEN */
+    /* CONTENT */
     .content {
       width: 100%;
       padding: 20px 0 25px;
@@ -255,14 +309,7 @@
       margin: 0;
     }
 
-    /* Desktop tetap seperti tampilan mobile */
-    @media (min-width: 431px) {
-      .container {
-        border-right-color: rgba(255, 255, 255, .1);
-        border-left-color: rgba(255, 255, 255, .1);
-      }
-    }
-
+    /* SMALL SCREENS */
     @media (max-width: 360px) {
       .container {
         padding: 16px 11px 0;
@@ -287,6 +334,15 @@
       }
     }
 
+    /* DESKTOP: KEEP MOBILE-STYLE LAYOUT */
+    @media (min-width: 431px) {
+      .container {
+        border-right-color: rgba(255, 255, 255, .1);
+        border-left-color: rgba(255, 255, 255, .1);
+      }
+    }
+
+    /* REDUCED MOTION */
     @media (prefers-reduced-motion: reduce) {
       .btn,
       .btn::before {
@@ -306,9 +362,9 @@
     <div class="logo">
       <amp-img
         src="https://res.cloudinary.com/uruyped1/image/upload/v1792465670/slot88-logo.png"
-        width="240"
-        height="307"
-        layout="fixed"
+        width="480"
+        height="200"
+        layout="intrinsic"
         alt="Logo SLOT88">
       </amp-img>
     </div>
@@ -324,7 +380,7 @@
       </amp-img>
     </div>
 
-    <!-- TOMBOL -->
+    <!-- NAVIGATION -->
     <nav class="buttons" aria-label="Menu utama">
       <a
         class="btn"
@@ -351,15 +407,15 @@
       </a>
     </nav>
 
-    <!-- JUDUL DAN DESKRIPSI -->
+    <!-- HEADING AND DESCRIPTION -->
     <section class="content">
       <h1>Situs Slot Gacor Gampang Menang Akses 777 Server Thailand Hari Ini</h1>
 
       <p class="description">
-        SLOT88 menyajikan informasi mengenai layanan dan
-        permainan online. Pelajari ketentuan yang berlaku,
-        pahami risikonya, dan gunakan informasi secara bijak.
-        Permainan berbasis peluang tidak menjamin penghasilan.
+        SLOT88 menyajikan informasi mengenai layanan dan permainan
+        online. Pelajari ketentuan yang berlaku, pahami risikonya,
+        dan gunakan informasi secara bijak. Permainan berbasis
+        peluang tidak menjamin penghasilan.
       </p>
     </section>
 
